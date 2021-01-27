@@ -1,5 +1,5 @@
 
 
-### Making a Progressive Web App
+### Making a Progressive Web App Using Redux 
 
 
