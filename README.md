@@ -1,5 +1,5 @@
 
 
-### Making a Progressive Web App Using Redux 
+### Personal practice Making a Progressive Web App Using Redux 
 
 
